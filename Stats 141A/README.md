@@ -3,13 +3,8 @@ There were two main projects in this class:
 # Craigslist Apartment Postings in California
 
 Craigslist is a website that allows people to post classified advertisements for free. These posts span a variety of subjects, including job postings, housing rentals, and item sales.
-Craigslist started in the San Francisco Bay Area and now serves 570 cities worldwide. Posts are grouped by city to make relevant ads easy to find. This project was divided into three 
-parts listed below:
+Craigslist started in the San Francisco Bay Area and now serves 570 cities worldwide. Posts are grouped by city to make relevant ads easy to find. This project was divided into three parts which are explained in depth within the Craigslist folder. 
 
-1. First, given the data set andthe features the goal was to explore features and find patterns among them.
-2. The second part was to analyze spatial characteristcs of certain cities in California.
-3. Given text files of the actual apartment advertisements itself, I scraped those posts to make my own data frame of features
-I was interested in.
 
 # USPS Automated Mail Sorting System 
 
