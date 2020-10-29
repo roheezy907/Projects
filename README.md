@@ -1,4 +1,4 @@
-# Stats-class-projects
+# UC Davis Statistics Course Projects/Assignments
 Projects done during my Data Science courses at UC Davis
 
 Stats 141A was a course dealing with the fundamentals of data science in which I was introduced to data analysis and data visualization. 
